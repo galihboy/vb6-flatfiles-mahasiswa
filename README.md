@@ -1,6 +1,6 @@
 DESKRIPSI
 
-Program untuk mengelola data berbasis flatfiles.
+Program untuk mengelola data berbasis flatfiles yang dibangun dengan menggunakan bahasa pemrograman Visual Basic 6.
 Contoh data adalah data mahasiswa, mencakup: nim, nama, dan jenis kelamin.
 
 FITUR
