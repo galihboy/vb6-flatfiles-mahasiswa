@@ -1,3 +1,3 @@
 "# vb6-flatfiles-mahasiswa" 
 
-![Tampilan Antarmuka](antarmuka.jpg)
+![Tampilan Antarmuka](antarmuka.JPG)
