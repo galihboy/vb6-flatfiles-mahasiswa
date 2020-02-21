@@ -10,7 +10,8 @@ FITUR
 4. Cari data (pencarian tepat berdasarkan data nim dan pencarian banyak data berdasarkan data nama)
 
 CREATOR
+
 Galih Hermawan (https://galih.eu).
-Mail: galih.hermawan[at]gmail.com .
+Mail: galih.hermawan[at]gmail.com.
 
 ![Tampilan Antarmuka](antarmuka.JPG)
